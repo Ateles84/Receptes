@@ -1,15 +1,15 @@
+<<<<<<< HEAD
 llet (38kcal)
 ous (50kcal)
 oli (200kcal)
 llevat (20kcal)
 cookies (450kcal)
 xocolata (300kcal)
+=======
+pomes 
+peres
+llet
+ou
+llevat
+>>>>>>> fix-pastis
 
-1. batre els ous
-2. mentres es baten, afegir llevat i llet
-3. un cop tenim una mescla homogenea li fiquem la xocolata i les cookies i tornem a batre
-4. ho fiquem a un motllo i al forn
-5. rezar per a que surti bé
-
-
-valoració Ferran Adrià & Estrelles mixelin: 10/100
